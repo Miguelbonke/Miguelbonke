@@ -52,7 +52,7 @@ Me chamo Miguel Bonke, tenho 20 anos, Atualmente, estou cursando Análise e Dese
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
   />
-          " 
+          
 />
 <img 
     align="left" 
@@ -61,6 +61,7 @@ Me chamo Miguel Bonke, tenho 20 anos, Atualmente, estou cursando Análise e Dese
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
 
 
 <br/>
