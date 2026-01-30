@@ -67,6 +67,5 @@ Me chamo Miguel Bonke, tenho 20 anos, Atualmente, estou cursando Análise e Dese
 <br/>
 <br/>
 
-  />
 
 </p>
