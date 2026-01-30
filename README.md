@@ -43,7 +43,7 @@ Me chamo Miguel Bonke, tenho 20 anos, Atualmente, estou cursando Análise e Dese
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-
+ />
 <img 
     align="left" 
     alt="Sql" 
@@ -64,8 +64,7 @@ Me chamo Miguel Bonke, tenho 20 anos, Atualmente, estou cursando Análise e Dese
     />
 
 
-<br/>
-<br/>
 
 
-</p>
+
+
