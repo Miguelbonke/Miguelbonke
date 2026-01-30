@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou um Desenvolvedor Full Stack em formação
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** 
 💻 Desenvolvedor Full Stack em formação  
 
 ---
@@ -20,6 +20,4 @@ Atualmente estudo e pratico desenvolvimento web, buscando evoluir tanto no front
 
 
 ---
-
-### 📫 Contato
 Fique à vontade para explorar meus repositórios.
