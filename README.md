@@ -6,7 +6,7 @@ Me chamo Miguel Bonke, tenho 20 anos, Atualmente, estou cursando Análise e Dese
 
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnólogias
 
 <img 
   align="left" 
