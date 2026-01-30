@@ -17,17 +17,7 @@ Atualmente estudo e pratico desenvolvimento web, buscando evoluir tanto no front
 - JavaScript  
 - Python  
 
----
 
-### 📚 Em aprendizado
-- Lógica de programação  
-- Desenvolvimento web  
-- Git e GitHub  
-
----
-
-### 🎯 Objetivo
-Conquistar minha primeira oportunidade na área de desenvolvimento e evoluir profissionalmente como desenvolvedor Full Stack.
 
 ---
 
